@@ -1,6 +1,6 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/oguineD">SQL developer, <a href="www.linkedin.com/in/oluchukwu-oguine-msc-7a5ba22a3">Data Analyst
 
-<h2>👨‍💻 Data Analysis Projects:
+<h2>👨‍💻 Data Analysis Projects: https://github.com/OguineD/SQL-PROJECTS
 
 <h2> 🤳 Connect with me:</h2>
 [twitter]: https://twitter.com/oguine_dave
