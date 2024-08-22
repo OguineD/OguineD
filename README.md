@@ -1,6 +1,6 @@
 <h1>Hi, I'm David! <br/><a href="https://github.com/oguineD">SQL developer, <a href="www.linkedin.com/in/oluchukwu-oguine-msc-7a5ba22a3">Data Analyst
 
-<h2>👨‍💻 Data Analysis Projects: https://github.com/OguineD/SQL-PROJEC
+<h2>👨‍💻 Data Analysis Projects: DataBase Management
 https://github.com/OguineD/Power-BI-visualization/blob/main/PIZZA%20Dashboard%20new.pdf
 
 <h2> 🤳 Connect with me:</h2>
